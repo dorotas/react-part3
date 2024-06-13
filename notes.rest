@@ -17,3 +17,6 @@ Content-Type: application/json
 
 ### delete note by id
 DELETE http://localhost:3003/api/notes/2
+
+### get main
+GET http://localhost:3003
